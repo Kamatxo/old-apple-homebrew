@@ -1,0 +1,52 @@
+/*
+Theme SYSTEM create by sakofchit - https://github.com/sakofchit/system.css
+*/
+.window {
+    width:50rem;
+    margin: 2rem auto;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 3px;
+}
+#wrap{
+    width: 90%;
+    margin: 1rem auto; 
+}
+img{
+    display: block;
+    margin: auto;
+    filter: grayscale(100%);
+    padding: 20px;
+}
+
+h1.title{
+    text-align: center;
+    font-size: 2rem;
+}
+.search{
+    text-align: center;
+}
+input{
+    width: 14.7rem;
+    margin-bottom: 2rem;
+}
+h2{
+    font-size: 1.4rem;
+}
+.min{
+    font-size: 0.8rem;
+    text-align: end;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+}
+.footer{
+    width:40%;
+    margin: auto;
+    text-align: center;
+    background-color: lightgray;
+    border-radius: 2px;
+}
+.footer a{ 
+    color: white;
+}
