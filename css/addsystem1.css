@@ -6,6 +6,7 @@ Theme SYSTEM create by sakofchit - https://github.com/sakofchit/system.css
     margin: 2rem auto;
     box-shadow: 5px 5px 5px gray;
     border-radius: 3px;
+    background-color: lightgray;
 }
 #wrap{
     width: 90%;
@@ -27,7 +28,7 @@ h1.title{
 }
 input{
     width: 14.7rem;
-    margin-bottom: 2rem;
+    margin: 2rem;
 }
 h2{
     font-size: 1.4rem;
@@ -39,6 +40,7 @@ h2{
 a{
     text-decoration: none;
     font-weight: bold;
+    color: white;
 }
 .footer{
     width:40%;
